@@ -74,3 +74,8 @@ footer {
     padding: 10px;
     font: italic small-caps bold 12px/30px Georgia, serif;
 }
+
+iframe{
+    width:420px;
+    height:315px;
+}
