@@ -85,7 +85,8 @@ footer {
     width: 25%;
 }
 .navbar a:hover {
-    background-color: aqua;
+
+    color: red;
 }
 /* page you currently are at */
 .navbar a.active {
