@@ -4,6 +4,7 @@ body {
 
 h1  {
     color: #FEB062;
+    font-family: "Lucida Console", "Courier New", monospace;
     text-align: center;
 }
 
@@ -11,6 +12,8 @@ p {
     color: #FEB062;
     margin-left: 200px;
     margin-right: 200px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 20px;
 }
 
 img {
@@ -38,7 +41,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    border: 1px solid #e7e7e7;
+
     background-color: #131313;
 }
 li a {
@@ -74,23 +77,19 @@ footer {
     height:135px;
 }
 
-
-
-
-
-
 .navbar {
     width: 100%;
     background-color: #131313;
+    border: 1px solid #FEB062;
     overflow: visible;
 }
 .navbar a{
     float: left;
     padding: 12px;
-    color: white;
+    color: #ffffff;
     text-decoration: none;
     font-size: 15px;
-    width: 33%;
+    width: 25%;
 }
 .navbar a:hover {
 
